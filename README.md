@@ -22,7 +22,9 @@ Donald Knuth, Robert Sedgewick, Tony Hoare, Nicholas Wirth, and Edsgar Dijkstra 
 of Plattsburgh State University in upstate New York, USA. They have been tasked with writing a program of critical importance require
 millions of lines of code that only masters such as themselves could produce. A long debate ensued in which language they would use to
 develope this mission critical program in.
+#
 -------------------------------------------INTERLUDE------------------------------------------
+#
  Knuth wanted to first build an actual MMIX computer for their project and write the code in MMIX assembly.
 Reminding everyone of what happened the last time knuth put a project on hold so he could create a technology
 to do the project in, Robert Sedgewick set to the task of trying to get everyone to see how great java has become. 
@@ -32,7 +34,9 @@ C and C-like languages. Edsgar Dijkstra flat REFUSED to code in anything but ALG
 behind that! But how about Algol W he said? Dijkstra just glared, and replied through gritted teeth: THERE IS ONLY ONE ALGO: 60.
 So it was settled: Dijkstra had spoken, Hoare was anxiously looking around, Wirth was still mumbling about Pascal, and Knuth
 and Sedgewick had gotten distracted talking about the amortized running time of a data structure nobody else had even heard of.
+#
 ---------------------------BACK TO OUR REGULARLY SCHEDULED PROGRAM----------------------------
+#
 After a lively discussion, the programmers were all famished, so they decided to retire to Clinton Dining Hall for supper
 This is when the real problems began: There was five of them, but the chef could only cook four chickens at a time. 
 How could five diners eat together without splitting chickens? They decided that since they were all going to consume more than 
